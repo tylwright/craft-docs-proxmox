@@ -1,4 +1,4 @@
-# craft-proxmox
+# craft-docs-proxmox
 
 **Self-documenting infrastructure for Proxmox** - Automatically generate and maintain living documentation for your VMs, containers, storage, and backups with real-time health monitoring.
 
